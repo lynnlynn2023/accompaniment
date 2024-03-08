@@ -1,0 +1,36 @@
+
+Privacy Policy for AccompanimentBETA Chrome Extension
+
+This Privacy Policy governs the manner in which AccompanimentBETA collects, uses, maintains, and discloses information collected from users of the AccompanimentBETA Chrome Extension.
+
+Collection of Information
+
+AccompanimentBETA collects two types of information:
+
+User Click Mouse Events: AccompanimentBETA records user click mouse events within the popup.html interface of the Chrome Extension. This information helps us understand user interactions and improve the functionality of the extension.
+
+ActiveTab Information: AccompanimentBETA also gathers information about the active tab in the user's browser. This information is accessed within the Chrome Extension scope and is used for providing relevant features and functionalities to the user.
+
+Use of Information
+
+The information collected by AccompanimentBETA is utilized solely for the purpose of enhancing the user experience and improving the functionality of the extension. Specifically:
+
+User click mouse events are analyzed to optimize user interface elements and improve overall usability.
+ActiveTab information is utilized to provide contextually relevant features and functionalities within the extension.
+Data Handling
+
+All data collected by AccompanimentBETA is handled securely within the Chrome Extension scope and the native messaging host scope. It remains on the user's device at all times and is never shared with any third parties.
+
+Security
+
+AccompanimentBETA takes reasonable precautions to protect user information against unauthorized access, alteration, disclosure, or destruction. This includes implementing appropriate security measures within the extension and adhering to best practices for data protection.
+
+Changes to this Privacy Policy
+
+AccompanimentBETA may update this Privacy Policy from time to time. We encourage users to review this page periodically for any changes. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications.
+
+Your Consent
+
+By using the AccompanimentBETA Chrome Extension, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use the extension. Your continued use of the extension following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+This Privacy Policy was last updated on 2024-03-08.
