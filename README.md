@@ -20,5 +20,10 @@ Step 3: Create a conda virtual environment that has the required libraries in Te
     
     pip install -r requirements.txt
     
-Step 4: When the last step of step 3 is finished, type ````which python```` in terminal. The resulting line is the python interpreter path you should put in accompaniment text box.
+Step 4: Grant execution right to all necessary files.
+
+    chmod +x *
+
+
+Step 5: When the last step of step 3 is finished, type ````which python```` in terminal. The resulting line is the python interpreter path you should put in accompaniment text box.
 <img width="1280" alt="Screenshot 2024-03-17 at 9 07 11 PM" src="https://github.com/lynnlynn2023/accompaniment/assets/128745013/4946cae9-0bb9-4884-b860-0398b8f2ded9">
