@@ -1,7 +1,7 @@
 {
     "name": "com.republech.accompaniment",
     "description": "Process and replace the sound of streaming videos.",
-    "path": "/Users/zhuwenze/ChromeExtensionDirectory/SplitMusic/app/host/host.sh",
+    "path": "/path/to/host.sh",
     "type": "stdio",
-    "allowed_origins": ["chrome-extension://gmodpnamloojibmfopoilapkikgejmcd/"]
+    "allowed_origins": ["chrome-extension://jpoebpbdhohkboaehnkenbihdiebfhde/"]
 }
