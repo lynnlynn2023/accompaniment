@@ -1,6 +1,6 @@
 Step 1: Download [com.republech.accompaniment.json](https://github.com/lynnlynn2023/accompaniment/blob/main/README.md). Edit com.republech.accompaniment.json in TextEdit as shown below. Replace [your_user_name] with the your macos user name. Then copy this .json file to /Library/Google/Chrome/NativeMessagingHosts/
     
-    "path": "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/[your_extension_id]/1.2_0/host/host.sh",
+    "path": "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/jpoebpbdhohkboaehnkenbihdiebfhde/1.2_0/host/host.sh",
 
 Step 2: In terminal, use the following two commands to grant execution right to all necessary files. Replace [your_user_name] with the your macos user name.
 
