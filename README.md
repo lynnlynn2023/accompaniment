@@ -4,7 +4,7 @@ Step 1: Download [com.republech.accompaniment.json](https://github.com/lynnlynn2
 
 Step 2: In terminal, use the following two commands to grant execution right to all necessary files. Replace [your_user_name] with the your macos user name.
 
-    cd "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/[your_extension_id]/1.2_0/host"
+    cd "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/jpoebpbdhohkboaehnkenbihdiebfhde/1.2_0/host"
     
     chmod +x *
 
