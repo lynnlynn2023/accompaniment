@@ -19,6 +19,13 @@ Step 3: Download [requirements.txt](https://github.com/lynnlynn2023/accompanimen
     conda install -n accompaniment pip -y
     
     pip install -r requirements.txt
+
+Step 3.1: Revise in ~/anaconda3/envs/accompaniment/lib/python3.9/site-packages/pytube/innertube.py
+
+    line 223
+    def __init__(self, client='ANDROID_MUSIC', use_oauth=False, allow_cache=True): 
+    change to 
+    def __init__(self, client='ANDROID', use_oauth=False, allow_cache=True):
     
 Step 4: When the last step of step 3 is finished, type ````which python```` in terminal. The resulting line is the python interpreter path you should put in accompaniment text box.
 <img width="1280" alt="Screenshot 2024-03-17 at 9 07 11 PM" src="https://github.com/lynnlynn2023/accompaniment/assets/128745013/4946cae9-0bb9-4884-b860-0398b8f2ded9">
