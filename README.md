@@ -2,7 +2,7 @@ Step 1: Download [com.republech.accompaniment.json](https://github.com/lynnlynn2
     
     "path": "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/jpoebpbdhohkboaehnkenbihdiebfhde/1.2_0/host/host.sh",
 
-Step 2: In terminal, use the following two commands to grant execution right to all necessary files. Replace [your_user_name] with the your macos user name.
+Step 2: Open Terminal, use the following two commands to grant execution right to all necessary files. Replace [your_user_name] with the your macos user name.
 
     cd "/Users/[your_user_name]/Library/Application Support/Google/Chrome/Default/Extensions/jpoebpbdhohkboaehnkenbihdiebfhde/1.2_0/host"
     
@@ -22,3 +22,5 @@ Step 3: Download [requirements.txt](https://github.com/lynnlynn2023/accompanimen
     
 Step 4: When the last step of step 3 is finished, type ````which python```` in terminal. The resulting line is the python interpreter path you should put in accompaniment text box.
 <img width="1280" alt="Screenshot 2024-03-17 at 9 07 11 PM" src="https://github.com/lynnlynn2023/accompaniment/assets/128745013/4946cae9-0bb9-4884-b860-0398b8f2ded9">
+
+Step 5: Close Termminal
