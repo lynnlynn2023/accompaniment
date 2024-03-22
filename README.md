@@ -10,7 +10,7 @@ Step 2: Open Terminal, use the following two commands to grant execution right t
 
 Step 3: Download [requirements.txt](https://github.com/lynnlynn2023/accompaniment/blob/main/requirements.txt). Execute the following one by one to create a conda virtual environment that has the required libraries in Terminal. Replace [your_download_path] to your real path that contains requirements.txt.
   
-    cd /[your_download_path]/requirements.txt
+    cd /[your_download_path]
     
     conda create -n accompaniment python=3.9 -y
 
